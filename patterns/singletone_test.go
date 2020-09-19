@@ -1,4 +1,4 @@
-package pract4
+package patterns
 
 import (
 	"testing"

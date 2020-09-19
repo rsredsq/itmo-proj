@@ -1,4 +1,4 @@
-package pract4
+package patterns
 
 type StrategySort interface {
 	Title() string
